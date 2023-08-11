@@ -9,13 +9,13 @@ This is a set of Python scripts which take certain files from SNK's Samurai Shod
 
 **The syntax is python samsho5_fe.py <Input_folder> <Output_folder>.**
 
-- The script samsho5_fe-SC is an older iteration of the above and produces the exact same file, albeit much MUCH slower, on account of using a single process (the above script leverages multiple processes).
+- The script samsho5_fe-SC is an older iteration of the above and produces the exact same file, albeit much MUCH slower, on account of using a single process (the newer script leverages multiple processes).
 
 **The syntax is the same as above**
 
 - The remaining scripts are simply parts of the main script and only perform one of the four needed functions which output the intended files.
 
-**These scripts do not require any syntax and will assume the needed files are in the same folder as the script. The will also output their intended files in said folder.**
+**These scripts do not require any arguments and will assume the needed files are in the same folder as the script. They will also output their intended files in said folder.**
 
 
 The files these scripts need as input may be found in "bundleSamuraiShodown5Special.mbundle" which resides in "Steam\steamapps\common\SAMURAI SHODOWN NEOGEO COLLECTION\Bundle".
