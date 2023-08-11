@@ -38,4 +38,4 @@ The scripts perform checks to make sure all files are present and correct and wi
 
 **These scripts are intended to be used for educational purposes ONLY and are provided AS-IS.**
 
-**I cannot and do not make any claims or promises on whether they will function as you intend them to nor do I assume ANY responsibility for anything that may happen as a result of using said scripts.**
+**I cannot and do not make any claims or promises on the manner that they may function, intended or unintended, nor do I assume ANY responsibility or liability for anything that may happen as a result of using said scripts.**
