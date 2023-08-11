@@ -2,16 +2,20 @@
 Samurai Shodown 5 Special (Final Edition) conversion tool
 
 This is a set of Python scripts which take certain files from SNK's Samurai Shodown NeoGeo Collection and output the file samsho5fe.zip:
-_**These scripts use the information provided in the followin URL link by Author alhumbra (Richard Roe) and as such are a derivative of those instructions: https://milkchoco.info/archives/3705**
+
+**These scripts use the information provided in the followin URL link by Author alhumbra (Richard Roe) and as such are a derivative of those instructions: https://milkchoco.info/archives/3705**
 
 - The main script is the samsho5_fe.py and after a successful execution will create the samsho5fe.zip file that can be used with the Final Burn Neo emulator.
-_**The syntax is python samsho5_fe.py <Input_folder> <Output_folder>.**
+
+**The syntax is python samsho5_fe.py <Input_folder> <Output_folder>.**
 
 - The script samsho5_fe-SC is an older iteration of the above and produces the exact same file, albeit much MUCH slower, on account of using a single process (the above script leverages multiple processes).
-_**The syntax is the same as above**
+
+**The syntax is the same as above**
 
 - The remaining scripts are simply parts of the main script and only perform one of the four needed functions which output the intended files.
-_**These scripts do not require any syntax and will assume the needed files are in the same folder as the script. The will also output their intended files in said folder.**
+
+**These scripts do not require any syntax and will assume the needed files are in the same folder as the script. The will also output their intended files in said folder.**
 
 
 The files these scripts need as input may be found in "bundleSamuraiShodown5Special.mbundle" which resides in "Steam\steamapps\common\SAMURAI SHODOWN NEOGEO COLLECTION\Bundle".
