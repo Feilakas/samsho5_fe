@@ -11,7 +11,7 @@ This is a set of Python scripts which take certain files from SNK's Samurai Shod
 
 **The syntax is the same as above**
 
-- The remaining scripts are simply parts of the main script and only perform one of the four needed functions that procude all of the required files.
+- The remaining scripts are simply parts of the main script and only perform one of the four needed functions which output the intended files.
 
 **These scripts do not require any syntax and will assume the needed files are in the same folder as the script. The will also output their intended files in said folder.**
 
