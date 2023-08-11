@@ -16,6 +16,7 @@ The files these scripts need as input can be found in "bundleSamuraiShodown5Spec
 The mbundle contents may be extracted by using **Luigi Auriemma's QuickBMS** tool with the **sf30_mbundle.bms script**.
 
 You can find both at mr. Auriemma's webpage: http://aluigi.altervista.org/quickbms.htm
+
 **I am not affiliated with mr. Auriemma nor his work in any way, shape or form.**
 
 The files these scripts look for as input are the following:
