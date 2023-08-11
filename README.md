@@ -16,7 +16,7 @@ This is a set of Python scripts which take certain files from SNK's Samurai Shod
 **These scripts do not require any syntax and will assume the needed files are in the same folder as the script. The will also output their intended files in said folder.**
 
 
-The files these scripts need as input can be found in "bundleSamuraiShodown5Special.mbundle" which resides in "Steam\steamapps\common\SAMURAI SHODOWN NEOGEO COLLECTION\Bundle".
+The files these scripts need as input may be found in "bundleSamuraiShodown5Special.mbundle" which resides in "Steam\steamapps\common\SAMURAI SHODOWN NEOGEO COLLECTION\Bundle".
 The mbundle contents may be extracted by using **Luigi Auriemma's QuickBMS** tool with the **sf30_mbundle.bms script**.
 
 You can find both at mr. Auriemma's webpage: http://aluigi.altervista.org/quickbms.htm
