@@ -1,7 +1,7 @@
 # samsho5_fe
 Samurai Shodown 5 Special (Final Edition) conversion tool
 
-This is a set of Python scripts which take certain files from SNK's Samurai Shodown NeoGeo Collection and output the file samsho5fe.zip:
+This Python tool takes certain files from SNK's Samurai Shodown NeoGeo Collection and outputs the file samsho5fe.zip:
 
 **These scripts use the information provided in the following guide by Author alhumbra (Richard Roe) and as such are a derivative of those instructions: https://milkchoco.info/archives/3705**
 
@@ -18,24 +18,25 @@ This is a set of Python scripts which take certain files from SNK's Samurai Shod
 **These scripts do not require any arguments and will assume the needed files are in the same folder as the script. They will also output their intended files in said folder.**
 
 
-The files these scripts need as input may be found in "bundleSamuraiShodown5Special.mbundle" which resides in "Steam\steamapps\common\SAMURAI SHODOWN NEOGEO COLLECTION\Bundle".
-The mbundle contents may be extracted by using **Luigi Auriemma's QuickBMS** tool with the **sf30_mbundle.bms script**.
+The files these scripts need as input may be found in "bundleMain.mbundle" and "bundleSamuraiShodown5Special.mbundle" which resides in "Steam\steamapps\common\SAMURAI SHODOWN NEOGEO COLLECTION\Bundle". 
+This tool is intended to complement ValadAmoleo's "[sf30ac-extractor](https://github.com/ValadAmoleo/sf30ac-extractor)" tools which can extact the mbundle files needed and convert Samurai Shodown 1 through 4.
 
+ALTERNATELY, the mbundle contents may also be extracted by using **Luigi Auriemma's QuickBMS** tool with the **sf30_mbundle.bms script**.
 You can find both at mr. Auriemma's webpage: http://aluigi.altervista.org/quickbms.htm
 
-**I am not affiliated with mr. Auriemma nor his work in any way, shape or form.**
+**I am not affiliated with either ValadAmoleo or mr. Auriemma nor their work in any way, shape or form.**
 
 
 The files these scripts look for as input are the following:
-- samsh5sp.cslot1_audiocrypt.dec
-- samsh5sp.cslot1_fixed.dec
-- samsh5sp.cslot1_ymsnd.dec
-- samsho5_fe.cslot1_maincpu
-- SamuraiShodown5_FE.sprites.swizzled
+- samsh5sp.cslot1_audiocrypt.dec (found in bundleSamuraiShodown5Special.mbundle)
+- samsh5sp.cslot1_fixed.dec (found in bundleSamuraiShodown5Special.mbundle)
+- samsh5sp.cslot1_ymsnd.dec (found in bundleSamuraiShodown5Special.mbundle)
+- samsho5_fe.cslot1_maincpu (found in bundleMain.mbundle)
+- SamuraiShodown5_FE.sprites.swizzled (found in bundleMain.mbundle)
 
 The scripts perform checks to make sure all files are present and correct and will warn the user of any issues.
 
 
 **These scripts are intended to be used for educational purposes ONLY and are provided AS-IS.**
 
-**I cannot and do not make any claims or promises on the manner that they may function, intended or unintended, nor do I assume ANY responsibility or liability for anything that may happen as a result of using said scripts.**
+**I cannot and do not make any claims or promises of any kind, either stated or implied, regarding these scripts or the manner that they may function, intended or unintended, nor do I assume ANY responsibility or liability for anything that may happen as a result of using said scripts.**
