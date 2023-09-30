@@ -41,4 +41,4 @@ The scripts perform checks to make sure all files are present and correct and wi
 # DISCLAIMER
 **These scripts are intended to be used for educational purposes ONLY and are provided AS-IS.**
 
-**I cannot and do not make any claims or promises of any kind, either stated or implied, regarding these scripts or the manner that they may function, intended or unintended, nor do I assume ANY responsibility or liability for anything that may happen as a result of using said scripts.**
+**I cannot and do not make any claims or promises of any kind, either stated or implied, regarding these scripts or the manner that they may function, or the results they may have, intended or unintended, nor do I assume ANY responsibility or liability for anything that may happen as a result of using said scripts.**
