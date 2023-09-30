@@ -3,9 +3,9 @@ Samurai Shodown 5 Special (Final Edition) conversion tool
 
 This Python tool takes certain files from SNK's Samurai Shodown NeoGeo Collection and outputs the file samsho5fe.zip:
 
-# Usage.
 **These scripts use the information provided in the following guide by Author alhumbra (Richard Roe) and as such are a derivative of those instructions: https://milkchoco.info/archives/3705**
 
+# Usage.
 - The main script is the samsho5_fe.py and after a successful execution will create the samsho5fe.zip file that can be used with the Final Burn Neo emulator.
 
 **The syntax is python samsho5_fe.py <Input_folder> <Output_folder>.**
