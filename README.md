@@ -18,15 +18,15 @@ This Python tool takes certain files from SNK's Samurai Shodown NeoGeo Collectio
 
 **These scripts do not require any arguments and will assume the needed files are in the same folder as the script. They will also output their intended files in said folder.**
 
-# Preparation
+# Prerequisites
 The files these scripts need as input may be found in "bundleMain.mbundle" and "bundleSamuraiShodown5Special.mbundle" which reside in "Steam\steamapps\common\SAMURAI SHODOWN NEOGEO COLLECTION\Bundle". 
 
-This tool may be seen as complementary to ValadAmoleo's "[sf30ac-extractor](https://github.com/ValadAmoleo/sf30ac-extractor)" set of tools which can extact the mbundle files needed by this tool and convert Samurai Shodown 1 through 4.
+This tool may be seen as complementary to ValadAmoleo's "[sf30ac-extractor](https://github.com/ValadAmoleo/sf30ac-extractor)" set of tools which can extact the mbundle files' contents needed by this tool and also convert Samurai Shodown 1 through 4.
 
 ALTERNATELY, the mbundle contents may also be extracted by using **Luigi Auriemma's QuickBMS** tool with the **sf30_mbundle.bms script**.
 You can find both at mr. Auriemma's webpage: http://aluigi.altervista.org/quickbms.htm
 
-**Pleae note that I am not affiliated with either ValadAmoleo or mr. Auriemma nor their work in any way, shape or form.**
+**Please note that I am not affiliated with either ValadAmoleo or mr. Auriemma nor their work in any way, shape or form.**
 
 
 The files these scripts look for as input are the following:
